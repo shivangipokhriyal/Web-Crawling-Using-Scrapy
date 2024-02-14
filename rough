@@ -1,11 +1,75 @@
-Business Problem:
-•	Objective of this project is to create a tactical dashboard for Regions Packages with all important KPIs in Qlik Sense which will be updated on regular interval to enable effective decision making
-•	Currently this will be focused on just the quotes coming through into the PRE2/LRE2 tool. Provides information to understand where the dashboard’s data is sourced from
+One-Slide Case Study: Regions Packages Tactical Dashboard
+Central Theme: Empowering Effective Decision-Making
 
-Benefit case:
-•	Street Pricing is elemental in tracking & monitoring changes in price, risk mix, profitability, and rate adequacy of overall and segmented book of business, etc. as different adjustments to the price are made.
-•	Additionally, there were some changes made to the PRE2/ LRE2 tool in December 2022, to aid with the business objectives to boost Packages conversion/ retention. This dashboard also helps in monitoring this change put into the calculator.
+Left Column:
 
-Solution:
-•	The data is sourced form Production and transformations were done in SAS. The bandings were created for EL, PL, PDBI, and Total Premiums to give a view for different measures. The final output file was then used to build the dashboard.
-•	The Packages Street Pricing PM Dashboard Build was created on Qlik sense. It captures the specification of UK CL- Packages Street Pricing PM Dashboard Build. 
+Problem: Scattered data across various systems slows down analysis and limits decision agility.
+Solution: Qlik Sense dashboard providing real-time insights into Regions Packages KPIs.
+Center Column:
+
+Before: Manual data analysis, limited visibility into pricing adjustments and PRE2/LRE2 changes.
+After: Instant access to key metrics like EL, PL, PDBI, and Total Premiums, enabling effective monitoring of profitability, risk, and conversion efforts.
+Right Column:
+
+Impact: Faster, data-driven decisions, improved understanding of Street Pricing changes, and enhanced monitoring of new initiatives.
+Image: A dynamic Qlik Sense dashboard snapshot showcasing key data visualizations and interactive features.
+
+Call to Action: Join us to explore the dashboard and unlock the power of informed decision-making for Regions Packages success!
+
+Remember:
+
+Use clear and concise text.
+Choose contrasting colors for readability.
+Emphasize key benefits and visuals.
+Include a call to action.
+This single slide offers a concise overview of your case study, engaging the audience with visual elements and a clear call to action. You can then expand on each point during your presentation, using supporting data and demonstrating the dashboard's functionalities.
+
+profile picture
+any more suggestions to add interactive elements?
+Show drafts
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Absolutely! Here are some additional suggestions for adding interactive elements to your one-page case study:
+
+QR Code:
+
+Embed a QR code that links to a live demo of the Qlik Sense dashboard. This allows viewers on mobile devices to easily access and explore the tool further.
+Clickable Text:
+
+Within the "Before" and "After" sections, make key terms clickable. When clicked, they can reveal pop-up windows with more detailed information or visual comparisons.
+Interactive Chart:
+
+Instead of a static image, use an embedded interactive chart from the Qlik Sense dashboard. This allows viewers to filter data, adjust timeframes, and explore trends directly on the slide.
+Live Poll:
+
+After highlighting the impact in the right column, add a live poll asking viewers "How confident are you in making data-driven decisions about Regions Packages since implementing the dashboard?" This creates real-time engagement and reinforces the value proposition.
+Hyperlinked Resources:
+
+In the call to action area, include hyperlinks to additional resources like detailed reports or technical documentation about the dashboard.
+Remember:
+
+Keep interactivity focused and relevant to the main points of your case study.
+Ensure all interactive elements function flawlessly during your presentation.
+Consider the limitations of your presentation software and audience devices when choosing interactivity options.
+By incorporating these suggestions, you can create a more dynamic and engaging one-page case study that effectively communicates the value of your Regions Packages Tactical Dashboard.
