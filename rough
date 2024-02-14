@@ -1,0 +1,11 @@
+Business Problem:
+•	Objective of this project is to create a tactical dashboard for Regions Packages with all important KPIs in Qlik Sense which will be updated on regular interval to enable effective decision making
+•	Currently this will be focused on just the quotes coming through into the PRE2/LRE2 tool. Provides information to understand where the dashboard’s data is sourced from
+
+Benefit case:
+•	Street Pricing is elemental in tracking & monitoring changes in price, risk mix, profitability, and rate adequacy of overall and segmented book of business, etc. as different adjustments to the price are made.
+•	Additionally, there were some changes made to the PRE2/ LRE2 tool in December 2022, to aid with the business objectives to boost Packages conversion/ retention. This dashboard also helps in monitoring this change put into the calculator.
+
+Solution:
+•	The data is sourced form Production and transformations were done in SAS. The bandings were created for EL, PL, PDBI, and Total Premiums to give a view for different measures. The final output file was then used to build the dashboard.
+•	The Packages Street Pricing PM Dashboard Build was created on Qlik sense. It captures the specification of UK CL- Packages Street Pricing PM Dashboard Build. 
